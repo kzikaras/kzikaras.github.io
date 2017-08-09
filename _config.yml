@@ -5,39 +5,39 @@ url: "0.0.0.0" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Joey Kirk
+  title: Kurt Zikaras
   avatar: avatar.png
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Designer, Developer, Writer, and Dad.</h1>
+     <h1>Developer, Musician, and Dog Dad.</h1>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: kurtzikaras@gmail.com
   behance:
   bitbucket:
   dribbble: "joeykirk"
-  facebook: "joeykirk"
+  facebook: "kurtzikaras"
   flickr:
-  github: "madebymunsters/type-theme"
+  github: kzikaras
   google_plus:
-  instagram: "joeykirk"
-  linkedin:  # Full URL
+  instagram: "deathcabforkurty"
+  linkedin:  https://www.linkedin.com/in/kurt-zikaras-12774ba8/
   pinterest:
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "joeykirk"
+  twitter: "deathcabfrkurty"
   wordpress:
-  youtube:
+  youtube: kurtzikaras
 
   # Scripts
   google_analytics: # Tracking ID, e.g. "UA-000000-01"

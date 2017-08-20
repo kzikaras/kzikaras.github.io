@@ -22,7 +22,7 @@ theme_settings:
   email_address: kurtzikaras@gmail.com
   behance:
   bitbucket:
-  dribbble: "joeykirk"
+  dribbble:
   facebook: "kurtzikaras"
   flickr:
   github: kzikaras
@@ -40,7 +40,7 @@ theme_settings:
   youtube: kurtzikaras
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-104973499-1"
   disqus_shortname:
   katex: true # Enable if using math markup
 

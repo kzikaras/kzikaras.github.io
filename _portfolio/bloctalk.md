@@ -6,4 +6,13 @@ thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/20
 short-description: BlocChat, chat with your friends online
 
 ---
-This is an example of a post which includes a feature image specified in the front matter of the post. The feature image spans the full-width of the page, and is shown with the title on permalink pages.
+Bloc chat is a web application which allows users to post messages to each other. The problem I needed to solve in this case was to find a way to save messages and display them dynamically on the site.
+
+{:center}
+![]({{ site.baseurl }}/img/blocjamslanding.png)
+
+{:center}
+![]({{ site.baseurl }}/img/collection.png)
+
+{:center}
+![]({{ site.baseurl }}/img/albumview.png)

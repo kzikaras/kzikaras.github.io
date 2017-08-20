@@ -45,5 +45,42 @@ header {
   }
   .post-content {
     @extend %padding-regular;
+    form input[type="text"],
+    form input[type="email"] {
+      width: 100%;
+      display: block;
+      padding: 0.5em;
+      margin: 0 0 1em;
+      border-radius: 6px;
+      border: 1px solid #cfcfcf;
+      box-shadow: none;
+    }
+
+    form textarea {
+      border-radius: 6px;
+      padding: 0.5em;
+      margin: 0 0 1em;
+      display: block;
+      width: 100%;
+      border: 1px solid #cfcfcf;
+      box-shadow: none;
+    }
+
+    form input[type="submit"] {
+      border-radius: 0.3em;
+      border: 1px solid #1ABC9C;
+      color: #1ABC9C;
+      background-color: #fff;
+      display: inline-block;
+      margin: 1em 0;
+      padding: 0.5em 0.75em;
+
+      &:hover {
+        background: #1ABC9C;
+        border: 1px solid #1ABC9C;
+        color: #fff;
+        text-decoration: none;
+      }
+    }
   }
 }

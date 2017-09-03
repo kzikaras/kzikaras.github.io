@@ -1,8 +1,8 @@
 ---
 layout: post
 title: BlocJams
-feature-img: "/img/sample_feature_img_3recolored.png"
-thumbnail-path: "/img/blocjamslanding.png"
+feature-img: "../img/sample_feature_img_3recolored.png"
+thumbnail-path: "../img/blocjamslanding.png"
 short-description: BlocJams, a mobile-friendly music player
 
 ---

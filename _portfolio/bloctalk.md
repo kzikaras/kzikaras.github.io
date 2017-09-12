@@ -11,6 +11,5 @@ Bloc chat is a web application which allows users to post messages to each other
 {:center}
 ![]({{ site.baseurl }}/img/newroom.png)
 
-{:center}
-![]({{ site.baseurl }}/img/blocchat.png)
+To solve this problem I utilized Google's Firebase backend service. I created a small database that would hold any messages posted, as well as let you create new chatrooms. All of this was tied together using the Angular framework which allowed me to reference my database to display posts dynamically.
 

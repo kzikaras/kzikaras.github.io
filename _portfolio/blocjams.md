@@ -23,3 +23,6 @@ The Bloc Jams project was a great introduction to front-end web development. At 
 
 {:center}
 ![]({{ site.baseurl }}/img/albumview.png)
+
+{:center}
+![]({{ site.baseurl }}/img/BlocJamsMobile.png)
